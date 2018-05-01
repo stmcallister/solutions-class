@@ -1,3 +1,3 @@
 # solutions-class
 
-Garvis' super awesome git class for solutions!
+Garvice's super awesome git class for solutions!
